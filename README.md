@@ -36,11 +36,6 @@ Click the link and wait a minute to load the application and then refresh or ope
 ## 🎥Demo Video:
 https://drive.google.com/file/d/1W26DcKPSnwxO8gVYwLsN2Tkug1zpECqo/view?usp=sharing
 
-# 📄Project Documents
-https://drive.google.com/drive/folders/1lO8CeXBpDSK54ffyY4JHPWkCMBCORJ2F?usp=sharing
-## access all the project related templates and reports here 
-
-
 ## 💡 Features
 
 - ✅ Upload an image of a fruit or vegetable  

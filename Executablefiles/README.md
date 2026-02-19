@@ -31,11 +31,6 @@
 ## 🎥Demo Video:
 https://drive.google.com/file/d/1EcAr1ilwNYb5LmQCAqHbLeSSfQie_aP0/view?usp=drive_link
 
-# 📄Project Documents 
-
-https://drive.google.com/drive/folders/1qFkje3qVwev1YwJdh9Jbb_gxJ2Suvy4A?usp=sharing
-## access all the project related templates and reports here 
-
 ## 💡 Features
 
 - ✅ Upload an image of a fruit or vegetable  
